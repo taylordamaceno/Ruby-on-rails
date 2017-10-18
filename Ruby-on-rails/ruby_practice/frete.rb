@@ -1,5 +1,5 @@
 
-module Frete
+module Calculo_Frete
 	TABELA_FRETE = {"BA" => 1.95, "SP" => 3.87, "PE" => 2.56}
 
 	def imprimir_tabela_frete
